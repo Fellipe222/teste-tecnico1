@@ -1,0 +1,7 @@
+#!/bin/bash
+
+NOME="Fellipe"
+echo "Olá, tudo bem?"
+echo "Me chamo $NOME"
+
+$SHELL
